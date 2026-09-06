@@ -1,3 +1,3 @@
 # Learning-Git
-##This is a learning repository
-hello world
+This is a learning repository
+
